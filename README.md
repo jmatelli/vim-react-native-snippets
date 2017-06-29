@@ -67,4 +67,4 @@ Check out [`UltiSnips/javascript.snippets`](UltiSnips/javascript.snippets) to se
 
 | Trigger  | Content |
 | -------: | ------- |
-| `rrcc→`  | React Native Class Component |
+| `rncc→`  | React Native Class Component |
