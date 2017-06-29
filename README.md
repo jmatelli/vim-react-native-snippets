@@ -58,9 +58,6 @@ const styles = StyleSheet.create({
 export default ListItem
 ```
 
-Check out [`UltiSnips/javascript.snippets`](UltiSnips/javascript.snippets) to see all snippets.
-
-
 ## Snippets
 
 #### Skeleton
