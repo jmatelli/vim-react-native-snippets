@@ -9,7 +9,7 @@ Requires [UltiSnips](https://github.com/SirVer/ultisnips).
 Using [vim-plug](https://github.com/junegunn/vim-plug):
 
 ```vim
-" React code snippets
+" React Native code snippets
 Plug 'tellijo/vim-react-native-snippets'
 ```
 
