@@ -4,7 +4,6 @@ snippet rncc "React Class Component" b
 import React, { Component} from 'react';
 import PropTypes from 'prop-types';
 import { View, StyleSheet } from 'react-native'
-import styles from './${2:$1}.css';
 
 class ${1:`!v expand('%:t:r')`} extends Component {
 	static propTypes = {
